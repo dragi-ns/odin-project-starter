@@ -1,7 +1,7 @@
 {
-  "name": "odin-project-dui-mm",
+  "name": "PROJECT_NAME",
   "version": "1.0.0",
-  "description": "",
+  "description": "PROJECT_DESCRIPTION",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
