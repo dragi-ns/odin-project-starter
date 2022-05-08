@@ -1,13 +1,13 @@
 {
-  "name": "odin-project-dui-mm",
+  "name": "PROJECT_NAME",
   "version": "1.0.0",
-  "description": "",
+  "description": "PROJECT_DESCRIPTION",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "dragi-ns",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.15.0",
